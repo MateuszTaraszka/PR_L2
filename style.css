@@ -1,3 +1,9 @@
 body{
-    background-color: bisque;
+    background-color: cornsilk;
+}
+
+.form{
+    background-color:ivory;
+    padding: 5%;
+    width: 40%;
 }
